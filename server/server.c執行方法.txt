@@ -1,0 +1,2 @@
+COMPILE: cc -pthread server.c
+EXEC: ./a.out

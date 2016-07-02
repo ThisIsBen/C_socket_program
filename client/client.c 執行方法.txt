@@ -1,0 +1,2 @@
+COMPILE: cc client.c
+EXEC: ./a.out
